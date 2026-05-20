@@ -1,0 +1,19 @@
+# Projectreflectie: Van Idee tot Functioneel Ontwerp
+
+We zijn onlangs begonnen aan een nieuwe opdracht. Al in een eerdere les had ik gevraagd wat we konden verwachten van dit nieuwe project. Daarna ben ik gaan nadenken over wat ik precies wilde maken en heb ik klasgenoten gevraagd of ze wilden samenwerken. 
+
+Samen hebben we gebrainstormd over het concept en de technische uitvoering. We hebben onderzocht hoe de server en de database werken en hoe deze met elkaar communiceren. Vervolgens hebben we de rollen binnen het team verdeeld op basis van ieders voorkeur:
+* **Mijn rol:** Backend-development.
+* **Teamlid 2:** Frontend-development en het ontwerpen van een strakke UI.
+* **Teamlid 3:** Een allround rol (een beetje van beide).
+
+### Het Concept: Een Tekst-gebaseerd Social Media Platform
+We hebben besloten om een social media website te maken die lijkt op Reddit, maar dan volledig zonder afbeeldingen. Dit maakt de initiële ontwikkeling net wat toegankelijker en strakker. 
+
+### Voorsprong door Planning
+Omdat we dit plan al vóór de vakantie hadden uitgedacht, konden we bij de officiële start van het project direct een vliegende start maken. In plaats van te brainstormen, konden we meteen doorstromen naar het opstellen van de:
+* **TDD** (Technical Design Document)
+* **FDD** (Functional Design Document)
+* **User Stories**
+
+Door deze strakke voorbereiding en een goede inventarisatie van ieders wensen en rollen (een soort rollenspel of taakverdeling), hadden we dit documentatiewerk al binnen één les volledig afgerond. Dit heeft ons enorm geholpen om snel en efficiënt van start te gaan.
